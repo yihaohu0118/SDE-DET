@@ -1,7 +1,5 @@
 # SDE-DET
 
-The source code for SDE-DET will be published when this paper is accepted. Please refer to subsequent updates.
-
 ## Paper
 
 📄 **Paper:** [https://doi.org/10.1016/j.atech.2026.101915](https://doi.org/10.1016/j.atech.2026.101915)
