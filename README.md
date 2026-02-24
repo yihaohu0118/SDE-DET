@@ -28,7 +28,6 @@
 
 📄 **Paper:** [https://doi.org/10.1016/j.atech.2026.101915](https://doi.org/10.1016/j.atech.2026.101915)
 
-> The source code will be published when the paper is accepted. Please refer to subsequent updates.
 
 ---
 
