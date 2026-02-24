@@ -131,7 +131,7 @@ If you use **SDE-DET** in your research, please cite:
   title     = {SDE-DET},
   author    = {Yihao Hu and collaborators},
   year      = {2026},
-  journal   = {Computers and Electronics in Agriculture},
+  journal   = {Smart Agricultural Technology},
   doi       = {10.1016/j.atech.2026.101915},
   url       = {https://github.com/yihaohu0118/SDE-DET}
 }
