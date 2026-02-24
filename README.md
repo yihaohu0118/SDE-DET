@@ -1,6 +1,6 @@
 # 🔍 SDE-DET
 
-**SDE-DET** — A flexible object detection framework with multi-backbone support.
+**SDE-DET** — A Precision Network for Shatian Pomelo Detection in Complex Orchard Environments
 
 👉 TL;DR: **SDE-DET** provides **training, validation, heatmap visualization, and Docker** — supporting **YOLO, DETR, R-CNN** and more in one unified repo.
 
